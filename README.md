@@ -113,3 +113,5 @@ The results (e.g., tables, charts) are displayed on the dashboard through HTML t
 The **Shiny Clone** project demonstrates the power of Python in building interactive web applications. Whether you're a data enthusiast or a developer, this project provides a strong foundation for creating powerful dashboards.
 
 ---
+
+**Happy Coding!**
